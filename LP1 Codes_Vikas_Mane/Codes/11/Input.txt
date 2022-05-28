@@ -1,0 +1,3 @@
+BLocks: 4
+input state: (on b a)^(ontable c)^(ontable a)^(ontable d)^(clear b)^(clear c)^(clear d)^(AE)
+goal state: (on c a)^(on b d)^(ontable a)^(ontable d)^(clear c)^(clear b)^(AE)
